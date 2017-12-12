@@ -7,4 +7,4 @@
 ## 2016
 ### Nov
 * EMNLP - [Zhang et al.: Exploiting Source-side Monolingual Data in Neural Machine Translation](http://www.aclweb.org/anthology/D16-1160)
-    * [Notes](https://github.com/ducthanhtran/paper_notes/blob/neural_machine_translation/nov16_exploiting_source_side_monolingual_data_in_nmt.md)
+    * [Notes](https://github.com/ducthanhtran/paper_notes/blob/master/neural_machine_translation/nov16_exploiting_source_side_monolingual_data_in_nmt.md)
