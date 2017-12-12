@@ -1,4 +1,4 @@
-# Title: Improving Neural Machine Translation with Monolingual Data
+# Improving Neural Machine Translation with Monolingual Data
 * arXiv November, 2015
 * ACL August, 2016
 
