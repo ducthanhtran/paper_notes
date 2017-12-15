@@ -15,6 +15,6 @@
 ### Results
 
 ## Notes
-### Drawbacks
+### Minus
 
-### Benefits
+### Plus
