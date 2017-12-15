@@ -1,3 +1,8 @@
+# Natural Language Processing
+## 2013
+### Jun
+* Mikolov et al.: Linguistic Regularities in Continuous Space Word Representation [[NAACL-HLT]](https://www.aclweb.org/anthology/N13-1090) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/nlp/13jun_linguistic_regularities_in_continuous_space_word_representations.md)
+
 # Neural Machine Translation
 ## 2017
 ### Sep

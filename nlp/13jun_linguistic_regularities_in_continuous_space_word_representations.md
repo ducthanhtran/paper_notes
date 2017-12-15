@@ -1,5 +1,5 @@
 # Linguistic Regularities in Continuous Space Word Representation
-* HLT-NAACL June, 2013
+* NAACL-HLT June, 2013
 
 **Authors**:
 * Mikolov, Tomas
