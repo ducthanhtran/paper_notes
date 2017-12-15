@@ -22,7 +22,7 @@
         * y = x_b - x_a + x_c (expected representation of word y)
         * no word can exist at exact position of y, thus search for word whose embedding vector has greatest cosine similarity to y
     * in semantic test, when d is given: compute cosine similarity cos(x_b - x_a + x_c, x_d)
-    
+
 ## Experiments
 * syntactic testset:
     * 267M words from newspaper text tagged with *Penn Treebank POS tags*
@@ -31,10 +31,32 @@
 * semantic testset:
     * SemEval-2012 Task 2 (Measuring Relation Similarity)
     * 79 fine-grained word relations: 10 for training and 69 for testing
+* RNN toolkit of Mikolov (2012) for evaluation
+* vector dimensionalities: 80, 320, 640 and composite of several systems (1600)
+* training on 320M words from Broadcast News data
+    * 82K vocabulary
+    * training criterion: maximizing log likelihood
 
 ### Results
+* comparison of RNN vectors to
+    * methods of Collobert and Weston (2008) [**CW**]
+    * Hieracical Log-Bilinear Model vectors of Mnih and Hinton (2009) [**HLBL**]
+* syntactic test:
+    * RNN vectors capture more syntactic regularities than LSA ones
+    * 1600 dimensions: about 39.6% accuracy
+    * 640 dimensions: about 34.7% acc.
+    * 320 dimensions: about 28.5% acc.
+    * 80 dimensions: about 16.2% acc.
+    * comparison
+        * HLBL do comparatively well like RNN
+        * CW performs very poorly
+* semantic test:
+    * RNN vectors perform the best with 1600 dimensions and 320 dimensions having little difference.
+    * outperforms previous state-of-the-art on SemEval 2012 task (UTD-NB, Rink and Harabagiu, 2012)
+    * CW comparable results to HLBL
 
 ## Notes
-### Drawbacks
-
-### Benefits
+* continuous word representations can identify syntactic and semantic relationships fairly well
+* increasing the dimension results in better performance, however increase is fairly small from 640 to 1600 dimensions
+### Minus
+* composite system with total dimension of 1600 not specified in detail
