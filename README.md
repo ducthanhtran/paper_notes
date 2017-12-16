@@ -5,6 +5,9 @@
 
 ## Machine Translation
 ### 2017
+#### Dec
+* Menacer et al.: Is Statistical Machine Translation Approach dead? [[HAL 2017]](https://hal.inria.fr/hal-01660016/document) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_translation/17dec_is_statistical_machine_translation_approach_dead.md)
+
 #### Sep
 * Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/pdf/1704.04347.pdf) [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_translation/17sep_exploiting_cross_sentence_context_for_nmt.md)
 
