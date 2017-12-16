@@ -10,12 +10,12 @@
 * Smaili, K.
 
 ## Key points
-* rise of neural machine translation (NMT); show promising results comparable or even surpassing those of statistical machine translation approaches (SMT)
+* a short survey/overview-paper about neural machine translation (NMT)
+* rise of neural machine translation; show promising results comparable or even surpassing those of statistical machine translation approaches (SMT)
 * previous popular approach: language and translation model, plus other components like reordering model in phrase-based translation systems
 * neural machine translation
     * end-to-end system that directly transforms source sentence into a target one by using a single neural network
     * encoder-decoder architecture and attention mechanism
-    *
 
 ## Experiments
 * Arabic-English translation task
@@ -82,8 +82,9 @@
 * just application of previous methods in NMT research
 
 ### Minus
-* title is slightly *missleading*
-* SMT system details unclear
-* NMT training details not specified
-    * did not specify any details on 3rd model (NMT + attention mechanism)
-    * training set of external dictionary not mentioned (4th model)+
+* weird title; slightly *missleading*?
+* experiments
+    * SMT system details unclear
+    * NMT training details not specified
+        * did not specify any details on 3rd model (NMT + attention mechanism)
+        * training set of external dictionary not mentioned (4th model)+
