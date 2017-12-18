@@ -11,6 +11,9 @@
 #### Sep
 * Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/pdf/1704.04347.pdf) [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17sep_exploiting_cross_sentence_context_for_nmt.md)
 
+#### Apr
+* Jean et al.: Does Neural Machine Translation Benefit from Larger Context? [[arXiv 2017]](https://arxiv.org/pdf/1711.00513.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17apr_does_nmt_benefit_from_larger_context.md)
+
 ### 2016
 #### Nov
 * Zhang et al.: Exploiting Source-side Monolingual Data in Neural Machine Translation [[EMNLP 2016]](http://www.aclweb.org/anthology/D16-1160) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16nov_exploiting_source_side_monolingual_data_in_nmt.md)
