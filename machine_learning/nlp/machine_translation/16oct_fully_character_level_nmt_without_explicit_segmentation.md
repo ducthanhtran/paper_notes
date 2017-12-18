@@ -8,6 +8,7 @@
 * Hofmann, Thomas
 
 ## Key points
+* map source character-seq. to target character-seq. without explicit segmentation by using character-level CNN
 
 ## Experiments
 
