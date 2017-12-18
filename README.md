@@ -18,6 +18,9 @@
 #### Nov
 * Zhang et al.: Exploiting Source-side Monolingual Data in Neural Machine Translation [[EMNLP 2016]](http://www.aclweb.org/anthology/D16-1160) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16nov_exploiting_source_side_monolingual_data_in_nmt.md)
 
+#### Aug
+* Chung et al.: A Character-level Decoder without Explicit Segmentation for Neural Machine Translation [[ACL 2016]](http://www.aclweb.org/anthology/P16-1160) [[arXiv]](https://arxiv.org/pdf/1603.06147) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16jmar_a_character_level_decoder_without_explicit_segmentation_for_nmt.md)
+
 ### 2015
 #### Nov
 * Sennrich et al.: Improving Neural Machine Translation with Monolingual Data [[arXiv 2015]](https://arxiv.org/pdf/1511.06709.pdf) [[ACL 2016]](http://www.aclweb.org/anthology/P16-1009) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15nov_improving_nmt_with_monolingual_data.md)
