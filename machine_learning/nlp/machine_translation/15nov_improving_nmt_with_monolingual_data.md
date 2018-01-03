@@ -14,7 +14,4 @@
 
 ### Results
 
-## Notes
-### Minus
-
-### Plus
+## Comments

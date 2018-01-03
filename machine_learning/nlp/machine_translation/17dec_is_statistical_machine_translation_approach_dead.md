@@ -75,13 +75,11 @@
 * improvement to 32.05 BLEU on dev. and 24.37 BLEU on test
     * small gap to SMT that performs better than this model due to limited training corpus
 
-## Notes
+## Comments
 * experiments done on small dataset
 * this paper gives a small overview on basic techniques on neural machine translation, not comprehensive!
     * operation on subword units like byte-pair encoding missing
 * just application of previous methods in NMT research
-
-### Minus
 * weird title; slightly *missleading*?
 * experiments
     * SMT system details unclear

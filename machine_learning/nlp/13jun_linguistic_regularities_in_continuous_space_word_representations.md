@@ -55,8 +55,7 @@
     * outperforms previous state-of-the-art on SemEval 2012 task (UTD-NB, Rink and Harabagiu, 2012)
     * CW comparable results to HLBL
 
-## Notes
+## Comments
 * continuous word representations can identify syntactic and semantic relationships fairly well
 * increasing the dimension results in better performance, however increase is fairly small from 640 to 1600 dimensions
-### Minus
 * composite system with total dimension of 1600 not specified in detail
