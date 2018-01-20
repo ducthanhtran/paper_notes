@@ -86,3 +86,4 @@ Comparison done to recurrent-based models using attention and Adam as optimizing
   * even a single CNN achieves 27.1 BLEU
 
 ## Comments
+* competitive architecure that can utilize parallel computation
