@@ -12,6 +12,8 @@
 * Lee et al.: Fully Character-level Neural Machine Translation without Explicit Segmentation [[arXiv 2016]](https://arxiv.org/abs/1610.03017) [[TACL 2017]](https://transacl.org/ojs/index.php/tacl/article/viewFile/1051/253) [[notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_fully_character_level_nmt_without_explicit_segmentation.md)
 
 #### Sep: Proceedings of the 2017 Conference on EMNLP
+* Britz et al.: Massive Exploration of Neural Machine Translation Architectures [[arXiv]](https://arxiv.org/pdf/1703.03906) [[ACL 2017]](http://aclweb.org/anthology/D17-1151) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_massive_exploration_of_nmt_architectures.md)
+
 * Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/pdf/1704.04347.pdf) [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_exploiting_cross_sentence_context_for_nmt.md)
 
 #### Aug: Proceedings of the 55th Annual Meeting of the ACL
