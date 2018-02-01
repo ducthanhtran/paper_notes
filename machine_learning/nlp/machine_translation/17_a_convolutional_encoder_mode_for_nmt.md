@@ -1,5 +1,5 @@
 # A Convolutional Encoder Model for Neural Machine Translation
-* ArXiv, November 2016
+* arXiv, November 2016
 * Proceedings of the 55th Annual Meeting of the ACL, August 2017
 
 **Authors**:

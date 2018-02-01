@@ -1,6 +1,7 @@
 # Massive Exploration of Neural Machine Translation Architectures
-* [arXiv, 2017](https://arxiv.org/abs/1703.03906)
-* [EMNLP, 2017](http://aclweb.org/anthology/D17-1151)
+* [arXiv 2017](https://arxiv.org/abs/1703.03906)
+* Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP). ACL 2017
+  * [ACL 2017](http://aclweb.org/anthology/D17-1151)
 
 **Authors**:
 * Britz, Denny

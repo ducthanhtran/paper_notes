@@ -1,5 +1,6 @@
 # One Decade of Statistical Machine Translation: 1996-2005
-* CLIN, 2005
+* Computational Linguistics in the Netherlands (CLIN), 2005
+  * [RWTH Aachen](https://www-i6.informatik.rwth-aachen.de/publications/download/508/Ney-MT%20Summit-2005.pdf)
 
 **Authors**:
 * Ney, Hermann
@@ -19,7 +20,7 @@
     * context-dependent/phrase-based lexicon models
     * generation algorithm: beam search
     * log-linear model combinations and rescoring
-    * better hardware ressources and parallel copora for training
+    * better hardware resources and parallel copora for training
 
 ### Advantages of using probability distributions/statistics
 * probabilities denote scores that are normalized
@@ -30,7 +31,7 @@
 ### Tasks in SMT
 1. error measure: Bayes decision rule based on minimizing posterior risk -> require error measure/rate
 2. probability models: replaces true and unknown probability distribution
-3. training criterion: learn free parameters of probabilirt models from training data
+3. training criterion: learn free parameters of probability models from training data
 4. decision rule: search problem of selecting most suitable target sentence
 
 ## Comments

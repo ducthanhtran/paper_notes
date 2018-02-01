@@ -12,33 +12,36 @@
 * Lee et al.: Fully Character-level Neural Machine Translation without Explicit Segmentation [[arXiv 2016]](https://arxiv.org/abs/1610.03017) [[TACL 2017]](https://transacl.org/ojs/index.php/tacl/article/viewFile/1051/253) [[notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_fully_character_level_nmt_without_explicit_segmentation.md)
 
 #### Sep: Proceedings of the 2017 Conference on EMNLP
-* Britz et al.: Massive Exploration of Neural Machine Translation Architectures [[arXiv 2017]](https://arxiv.org/pdf/1703.03906) [[ACL 2017]](http://aclweb.org/anthology/D17-1151) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_massive_exploration_of_nmt_architectures.md)
+* Britz et al.: Massive Exploration of Neural Machine Translation Architectures [[arXiv 2017]](https://arxiv.org/abs/1703.03906) [[ACL 2017]](http://aclweb.org/anthology/D17-1151) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_massive_exploration_of_nmt_architectures.md)
 
-* Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/pdf/1704.04347.pdf) [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_exploiting_cross_sentence_context_for_nmt.md)
+* Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/abs/1704.04347.pdf) [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_exploiting_cross_sentence_context_for_nmt.md)
+
+#### Sep: Proceedings of the Conference on Machine Translation (WMT), vol. 1: Research Papers
+* Barone et al.: Deep Architectures for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/abs/1707.07631) [[ACL 2017]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_deep_architectures_for_nmt.md)
 
 #### Aug: Proceedings of the 55th Annual Meeting of the ACL
-* Gehring et al.: A Convolutional Encoder Model for Neural Machine Translation [[arXiv 2016]](https://arxiv.org/pdf/1611.02344) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1012) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_a_convolutional_encoder_mode_for_nmt.md)
+* Gehring et al.: A Convolutional Encoder Model for Neural Machine Translation [[arXiv 2016]](https://arxiv.org/abs/1611.02344) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1012) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_a_convolutional_encoder_mode_for_nmt.md)
 
 #### arXiv
-* Jean et al.: Does Neural Machine Translation Benefit from Larger Context? [[arXiv 2017]](https://arxiv.org/pdf/1711.00513.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
+* Jean et al.: Does Neural Machine Translation Benefit from Larger Context? [[arXiv 2017]](https://arxiv.org/abs/1711.00513.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
 
 ### 2016
 #### Nov: Proceedings of the 2016 Conference on EMNLP
 * Zhang et al.: Exploiting Source-side Monolingual Data in Neural Machine Translation [[EMNLP 2016]](http://www.aclweb.org/anthology/D16-1160) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_exploiting_source_side_monolingual_data_in_nmt.md)
 
 #### Aug: Proceedings of the 54th Annual Meeting of the ACL
-* Chung et al.: A Character-level Decoder without Explicit Segmentation for Neural Machine Translation [[ACL 2016]](http://www.aclweb.org/anthology/P16-1160) [[arXiv 2016]](https://arxiv.org/pdf/1603.06147) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_a_character_level_decoder_without_explicit_segmentation_for_nmt.md)
+* Chung et al.: A Character-level Decoder without Explicit Segmentation for Neural Machine Translation [[arXiv 2016]](https://arxiv.org/abs/1603.06147) [[ACL 2016]](http://www.aclweb.org/anthology/P16-1160) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_a_character_level_decoder_without_explicit_segmentation_for_nmt.md)
 
-* Sennrich et al.: Improving Neural Machine Translation with Monolingual Data [[arXiv 2015]](https://arxiv.org/pdf/1511.06709.pdf) [[ACL 2016]](http://www.aclweb.org/anthology/P16-1009) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_improving_nmt_with_monolingual_data.md)
+* Sennrich et al.: Improving Neural Machine Translation with Monolingual Data [[arXiv 2015]](https://arxiv.org/abs/1511.06709.pdf) [[ACL 2016]](http://www.aclweb.org/anthology/P16-1009) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_improving_nmt_with_monolingual_data.md)
 
 * Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units [[arXiv]](https://arxiv.org/abs/1508.07909) [[ACL 2016]](http://www.aclweb.org/anthology/P16-1162) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_nmt_of_rare_words_with_subword_units.md)
 
 ### 2015
 #### Jul: Proceedings of the 53rd Annual Meeting of the ACL and the 7th IJCNLP
-* Luong et al.: Addressing the Rare Word Problem in Neural Machine Translation [[arXiv]](https://arxiv.org/pdf/1410.8206) [[ACL 2015]](http://www.aclweb.org/anthology/P15-1002) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_addressing_the_rare_word_problem_in_neural_machine_translation.md)
+* Luong et al.: Addressing the Rare Word Problem in Neural Machine Translation [[arXiv]](https://arxiv.org/abs/1410.8206) [[ACL 2015]](http://www.aclweb.org/anthology/P15-1002) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_addressing_the_rare_word_problem_in_neural_machine_translation.md)
 
 #### ArXiv
-* Ling et al.: Character-based Neural Machine Translation [[arXiv 2015]](https://arxiv.org/pdf/1511.04586.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_character_based_nmt.md)
+* Ling et al.: Character-based Neural Machine Translation [[arXiv 2015]](https://arxiv.org/abs/1511.04586.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_character_based_nmt.md)
 
 ### 2005
 #### 16th Meeting of CLIN
