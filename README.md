@@ -14,6 +14,9 @@
 #### Sep: Proceedings of the 2017 Conference on EMNLP
 * Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/pdf/1704.04347.pdf) [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_exploiting_cross_sentence_context_for_nmt.md)
 
+#### Aug: Proceedings of the 55th Annual Meeting of the ACL
+* Gehring et al.: A Convolutional Encoder Model for Neural Machine Translation [[arXiv 2016]](https://arxiv.org/pdf/1611.02344) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1012) [[Notes]] (https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_a_convolutional_encoder_mode_for_nmt.md)
+
 #### arXiv
 * Jean et al.: Does Neural Machine Translation Benefit from Larger Context? [[arXiv 2017]](https://arxiv.org/pdf/1711.00513.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
 
