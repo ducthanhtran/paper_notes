@@ -21,7 +21,7 @@
 #### Nov: Proceedings of the 2016 Conference on EMNLP
 * Zhang et al.: Exploiting Source-side Monolingual Data in Neural Machine Translation [[EMNLP 2016]](http://www.aclweb.org/anthology/D16-1160) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_exploiting_source_side_monolingual_data_in_nmt.md)
 
-#### Aug: Proceedings of the 54th Annual Meeting of the ACL 2016
+#### Aug: Proceedings of the 54th Annual Meeting of the ACL
 * Chung et al.: A Character-level Decoder without Explicit Segmentation for Neural Machine Translation [[ACL 2016]](http://www.aclweb.org/anthology/P16-1160) [[arXiv 2016]](https://arxiv.org/pdf/1603.06147) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_a_character_level_decoder_without_explicit_segmentation_for_nmt.md)
 
 * Sennrich et al.: Improving Neural Machine Translation with Monolingual Data [[arXiv 2015]](https://arxiv.org/pdf/1511.06709.pdf) [[ACL 2016]](http://www.aclweb.org/anthology/P16-1009) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_improving_nmt_with_monolingual_data.md)
@@ -29,5 +29,5 @@
 * Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units [[arXiv]](https://arxiv.org/abs/1508.07909) [[ACL 2016]](http://www.aclweb.org/anthology/P16-1162) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_nmt_of_rare_words_with_subword_units.md)
 
 ### 2015
-#### Jul: Proceedings of the 53rd Annual Meeting of the ACL 2015 and the 7th IJCNLP
+#### Jul: Proceedings of the 53rd Annual Meeting of the ACL and the 7th IJCNLP
 * Luong et al.: Addressing the Rare Word Problem in Neural Machine Translation [[arXiv]](https://arxiv.org/pdf/1410.8206) [[ACL 2015]](http://www.aclweb.org/anthology/P15-1002) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_addressing_the_rare_word_problem_in_neural_machine_translation.md)
