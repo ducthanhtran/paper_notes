@@ -1,4 +1,5 @@
 # Massive Exploration of Neural Machine Translation Architectures
+* arXiv, 2017
 * EMNLP, 2017
 
 **Authors**:
