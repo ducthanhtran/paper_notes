@@ -71,3 +71,4 @@ Results reported on newstest2013.
 
 ## Comments
 * training and architecture settings of other systems not reported in testset comparisons
+* 'best performing' model in table 8 should be 'baseline' model from section 3.3
