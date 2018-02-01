@@ -31,3 +31,6 @@
 ### 2015
 #### Jul: Proceedings of the 53rd Annual Meeting of the ACL and the 7th IJCNLP
 * Luong et al.: Addressing the Rare Word Problem in Neural Machine Translation [[arXiv]](https://arxiv.org/pdf/1410.8206) [[ACL 2015]](http://www.aclweb.org/anthology/P15-1002) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_addressing_the_rare_word_problem_in_neural_machine_translation.md)
+
+#### ArXiv
+* Ling et al.: Character-based Neural Machine Translation [[arXiv 2015]](https://arxiv.org/pdf/1511.04586.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_character_based_nmt.md)
