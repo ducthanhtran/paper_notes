@@ -1,6 +1,6 @@
 # Massive Exploration of Neural Machine Translation Architectures
-* arXiv, 2017
-* EMNLP, 2017
+* [arXiv, 2017](https://arxiv.org/pdf/1703.03906)
+* [EMNLP, 2017](http://aclweb.org/anthology/D17-1151)
 
 **Authors**:
 * Britz, Denny
