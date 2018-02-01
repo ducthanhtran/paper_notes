@@ -17,7 +17,7 @@
 * Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/abs/1704.04347.pdf) [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_exploiting_cross_sentence_context_for_nmt.md)
 
 #### Sep: Proceedings of the Conference on Machine Translation (WMT), vol. 1: Research Papers
-* Barone et al.: Deep Architectures for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/abs/1707.07631) [[ACL 2017]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_deep_architectures_for_nmt.md)
+* Barone et al.: Deep Architectures for Neural Machine Translation [[arXiv 2017]](https://arxiv.org/abs/1707.07631) [[ACL 2017]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_deep_architectures_for_nmt.md) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_deep_architectures_for_nmt.md)
 
 #### Aug: Proceedings of the 55th Annual Meeting of the ACL
 * Gehring et al.: A Convolutional Encoder Model for Neural Machine Translation [[arXiv 2016]](https://arxiv.org/abs/1611.02344) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1012) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_a_convolutional_encoder_mode_for_nmt.md)
