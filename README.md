@@ -37,3 +37,7 @@
 
 #### ArXiv
 * Ling et al.: Character-based Neural Machine Translation [[arXiv 2015]](https://arxiv.org/pdf/1511.04586.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_character_based_nmt.md)
+
+### 2005
+#### 16th Meeting of CLIN
+* Ney: One Decade of Statistical Machine Translation: 1996-2005 [[RWTH Aachen]](https://www-i6.informatik.rwth-aachen.de/publications/download/508/Ney-MT%20Summit-2005.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/05_one_decade_of_smt_1996_2005.md)
