@@ -37,23 +37,23 @@
 
 #### Results ####
 Results reported on newstest2013.
-1. embedding dimensionality
+* embedding dimensionality
   * no significant improvement by increasing embedding dimensionality
   * convergence required more time
   * large increase in parameters
-2. RNN Cell Type (GRU vs. LSTM)
+* RNN Cell Type (GRU vs. LSTM)
   * LSTM cells outperformed
   * no difference in training speed
   * using vanilla decoder degrades BLEU performance heavily
-3. encoder and decoder depth
+* encoder and decoder depth
   * encoder: no real benefit of using more than 2 layers. Using 4 layers was best but with a low improvement over 2 layers, that is, 21.78 BLEU to 21.85 BLEU.
   * decoder: increase of 0.5 BLEU by going from 1/2 to 4 layers. For more layers residual connections have to be employed but no significant improvement can be observed.
-4. uni- vs. bi-directional encoder
+* uni- vs. bi-directional encoder
   * bi-directional encoder has best performance, but margin to uni-directional ones are small. In addition, reversing the source sentence improves performance.
-5. attention mechanism (additive vs. dot-product)
+* attention mechanism (additive vs. dot-product)
   * attention-dimensionality has little effect (128-1024 tested)
   * additive from Bahdanau et al. outperforms multiplicative one, best at 512 attention-dimensionality
-6. beam width
+* beam width
   * length normalization/penalty (1.0) improves BLEU by about 0.3
   * has sweet spot - too large widths result in degradation
 
