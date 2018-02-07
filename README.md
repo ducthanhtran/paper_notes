@@ -2,8 +2,10 @@
 
 ### 2017
 #### Proceedings of the 55th Annual Meeting of the ACL
-* Vania et al.: From Characters to Word to in Between: Do We Capture Morphology? [[arXiv 2017]](https://arxiv.org/abs/1704.08352) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1184) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/17_from_characters_to_words_to_in_between_do_we_capture_morphology.md)
+* Vania et al.: From Characters to Words to in Between: Do We Capture Morphology? [[arXiv 2017]](https://arxiv.org/abs/1704.08352) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1184) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/17_from_characters_to_words_to_in_between_do_we_capture_morphology.md)
 
+#### Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers
+* Press et al.: Using the Output Embedding to Improve Language Models [[arXiv 2016]](https://arxiv.org/abs/1608.05859) [[ACL 2017]](http://aclweb.org/anthology/E17-2025) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/17_using_the_output_embedding_to_improve_language_models.md)
 
 ### 2013
 #### Proceedings of NAACL-HLT 2013

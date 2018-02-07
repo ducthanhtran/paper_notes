@@ -15,7 +15,23 @@
 
 
 ## Key points
-
+* RNN: no parallelization, sequential computation
+* CNN: number of operations to relate informations between arbitrary input/output positions grows with sequence length
+* proposal of Transformer model
+  * purely (self-)attention-based that allows parallelization
+  * constant number of operations required for information flow between arbitrary sequence positions at cost of reduced resolution
+* architecture:
+  * encoder-decoder architecture
+  * encoder: stack of N=6 layers with following sub-layers
+    * 1. multi-head attention mechanism
+    * 2. position-wise fully connected feed-forward (FF) network
+    * residual connection followed by layer normalization
+    * layers produce output of dimension 512
+  * decoder: stack of N=6 layers with following sub-layers
+    * 1. multi-head attention (*like in encoder*) with masking to avoid attending subsequent positions
+    * 2. multi-head attention over output of encoder stack
+    * 3. position-wise fully connected feed-forward (FF) network (*like in encoder*)
+    * residual connection, followed by layer normalization
 
 
 ### Experiments ###
