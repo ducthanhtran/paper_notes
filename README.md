@@ -1,4 +1,10 @@
 # Natural Language Processing
+
+### 2017
+#### Aug: Proceedings of the 55th Annual Meeting of the ACL
+* Vania et al.: From Characters to Word to in Between: Do We Capture Morphology? [[arXiv 2017]](https://arxiv.org/abs/1704.08352) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1184) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/17_from_characters_to_words_to_in_between_do_we_capture_morphology.md)
+
+
 ### 2013
 #### Jun: Proceedings of NAACL-HLT 2013
 * Mikolov et al.: Linguistic Regularities in Continuous Space Word Representation [[NAACL-HLT 2013]](https://www.aclweb.org/anthology/N13-1090) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/13_linguistic_regularities_in_continuous_space_word_representations.md)
