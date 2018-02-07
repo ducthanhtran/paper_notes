@@ -26,7 +26,7 @@
 
 
 ## Experiments ##
-* language model: RNN with LSTM units
+* language model (LM): RNN with LSTM units
   * re-implemented all models in a single framework using Tensorflow: [Github](https://github.com/claravania/subword-lstm-lm)
   * two hidden layers with 200 hidden units
   * word/character/morph vectors use 200 dimensions
@@ -41,7 +41,24 @@
   * root+pattern: Arabic, Hebrew
   * reduplication: Indonesian, Malaysian
 
+#### Morphological Analysis ####
+
 
 ### Results ###
+
+| Language  | Best subword representation | Best compositional function | Improvement over word PPL baseline |
+| ------------- | ------------- | ------------- | ------------- |
+| Czech | character trigrams | bi-LSTM | 18.98% |
+| English | character trigrams | bi-LSTM | 7.39% |
+| Russian | character trigrams | bi-LSTM | 20.64% |
+| Finnish | character trigrams | bi-LSTM | 23.09% |
+| Japanese | character | CNN | 6.63% |
+| Turkish | character trigrams | summation | 25.24% |
+| Arabic | character trigrams | bi-LSTM | 17.28% |
+| Hebrew | character trigrams | bi-LSTM | 20.48% |
+| Indonesian | BPE | bi-LSTM | 5.86% |
+| Malaysian | character | CNN | 7.52% |
+
+* in general we obtain worse PPL if summation is used in combination with character trigrams/BPE/morphs
 
 ## Comments ##
