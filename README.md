@@ -12,8 +12,11 @@
 * Mikolov et al.: Linguistic Regularities in Continuous Space Word Representation [[NAACL-HLT 2013]](https://www.aclweb.org/anthology/N13-1090) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/13_linguistic_regularities_in_continuous_space_word_representations.md)
 
 ## Machine Translation
-### 2017
+### 2018
+#### ICLR 2018
+* Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning [[OpenReview]](https://openreview.net/forum?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
 
+### 2017
 #### Advances in NIPS 2017
 * Vaswani et al.: Attention Is All You Need [[arXiv 2017]](https://arxiv.org/abs/1706.03762) [[NIPS 2017]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_attention_is_all_you_need.md)
 
