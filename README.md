@@ -21,6 +21,7 @@
 
 #### NAACL-HLT 2018 (to-appear)
 * Shaw et al.: Self-Attention with Relative Position Representations [[arXiv 2018]](https://arxiv.org/abs/1803.02155) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_self_attention_with_relative_position_representations.md)
+* Gu et al.: Universal Neural Machine Translation for Extremely Low Resource Languages [[arXiv 2018]](https://arxiv.org/abs/1802.05368) [[Microsoft 2018]](https://www.microsoft.com/en-us/research/publication/universal-neural-machine-translation-extremely-low-resource-languages/) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_
 
 ### 2017
 #### Advances in NIPS 2017
