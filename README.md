@@ -13,11 +13,14 @@
 
 ## Machine Translation
 ### 2018
-#### ICLR 2018
+#### ICLR 2018 (to-appear)
 * Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning [[OpenReview]](https://openreview.net/forum?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
 
-#### AAAI 2018
+#### AAAI 2018 (to-appear)
 * Zhang et al.: Joint Training for Neural Machine Translation Models with Monolingual Data [[arXiv 2018]](https://arxiv.org/abs/1803.00353) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_joint_training_for_nmt_models_with_monolingual_data.md)
+
+#### NAACL-HLT 2018 (to-appear)
+* Shaw et al.: Self-Attention with Relative Position Representations [[arXiv 2018]](https://arxiv.org/abs/1803.02155) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_self_attention_with_relative_position_representations.md)
 
 ### 2017
 #### Advances in NIPS 2017
