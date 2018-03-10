@@ -16,7 +16,14 @@
   * source languages have small/limited data, some even have zero data
   * multi-lingual setting: avoid overfitting and utilize knowledge of other languages in translation
 * challenges in training a multi-lingual NMT model
-  * 
+  * lexical-level sharing
+  * sentence-level sharing
+* proposal of *universal NMT* model with focus on low-resource data
+* two vital components:
+  * universal lexical representation (ULR)
+    * each word represented by probabilistic mixture of universal space word embeddings: semantically similar words from different languages are projected in same space
+  * mixture of language experts (MoLE)
+    *
 
 ### Experiments ###
 #### Results ####
