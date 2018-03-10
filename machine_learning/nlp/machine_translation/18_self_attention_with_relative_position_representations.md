@@ -80,4 +80,3 @@ On test set:
 * no real significant improvement beyond k=2
 
 ## Comments ##
-* 
