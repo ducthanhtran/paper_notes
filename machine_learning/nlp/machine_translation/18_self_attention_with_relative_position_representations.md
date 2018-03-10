@@ -30,6 +30,29 @@
   * 4096 tokens limited in input and output per GPU
   * resulting in approx. 25K source and 25K target tokens for whole batch
 * ADAM optimizer with beta_1=0.9, beta_2=0.98 and eps=10^-9
-#### Results ####
+  * warmup and decay strategy for learning rate with 4K warmup steps
+* label smoothing with value 0.1
+* beam search with size 4 and length penalty of value 0.6
 
+#### Models ####
+
+|                                   | Base | Big  |
+|-----------------------------------|------|------|
+| Encoder/Decoder Layers            | 6/6  | 6/6  |
+| Dimensions for word emb.          | 512  | 1024 |
+| Dimensions for self-attention     | 64   | 64   |
+| #Attention heads                  | 8    | 16   |
+| Dimensions for feed-forward layer | 1024 | 4096 |
+| Dropout value (EN-DE)             | 0.1  | 0.3  |
+| Dropout value (EN-FR)             | 0.1  | 0.1  |
+| Max. rel. position k              | 16   | 8    |
+| #Training steps                   | 100K | 300K |
+
+* unique edge presentation per layer and head
+* Big model used averaging of last 20 checkpoints, saved at 10 minute intervals
+* both compared to baseline [Transformer](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_attention_is_all_you_need.md) with sinusoidal position encoding
+
+#### Results ####
+* English-German
+* English-French
 ## Comments
