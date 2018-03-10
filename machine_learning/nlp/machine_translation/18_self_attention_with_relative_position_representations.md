@@ -58,7 +58,7 @@
 On test set:
 
 | Model | Position Encoding | EN-DE: BLEU [%] | EN-FR: BLEU [%] |
-|-------------------------------|-----------------|-----------------|
+|--------------------|----------|-----------------|-----------------|
 | Transformer (base) | sinusoidal    | 26.5       | 38.2            |
 | Transformer (base) | rel. position | **26.8**   | **38.7**        |
 | Transformer (big)  | sinusoidal    | 27.9       | 41.2            |
