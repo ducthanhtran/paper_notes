@@ -51,8 +51,33 @@
 * unique edge presentation per layer and head
 * Big model used averaging of last 20 checkpoints, saved at 10 minute intervals
 * both compared to baseline [Transformer](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_attention_is_all_you_need.md) with sinusoidal position encoding
+* used *newstest2013* development set
+* using *newstest2014* as test set
 
 #### Results ####
-* English-German
-* English-French
-## Comments
+On test set:
+| Model | Position Encoding | EN-DE: BLEU [%] | EN-FR: BLEU [%] |
+|-------------------------------|-----------------|-----------------|
+| Transformer (base) | sinusoidal    | 26.5       | 38.2            |
+| Transformer (base) | rel. position | **26.8**   | **38.7**        |
+| Transformer (big)  | sinusoidal    | 27.9       | 41.2            |
+| Transformer (big)  | rel. position | **29.2**   | **41.5**        |
+
+* no benefit of incorporating both rel. and sinusoidal positional encodings
+
+#### Clipping distance k ####
+
+| k   | EN-DE BLEU[%] |
+|-----|---------------|
+| 0   | 12.5          |
+| 1   | 25.5          |
+| 2   | 25.8          |
+| 4   | 25.9          |
+| 16  | 25.8          |
+| 64  | 25.9          |
+| 256 | 25.8          |
+* on English-German development set *newstest2013*
+* no real significant improvement beyond k=2
+
+## Comments ##
+* 
