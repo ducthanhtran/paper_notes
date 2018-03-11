@@ -1,5 +1,9 @@
 # Natural Language Processing
 
+### 2018
+#### ICLR 2018 (to-appear)
+* Logeswaran et al.: An Efficient Framework for Learning Sentence Representations [[arXiv 2018]](https://arxiv.org/abs/1803.02893) [[OpenReview 2018]](https://openreview.net/forum?id=rJvJXZb0W) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/18_an_efficient_framework_for_learning_sent_repr.md)
+
 ### 2017
 #### Proceedings of the 55th Annual Meeting of the ACL
 * Vania et al.: From Characters to Words to in Between: Do We Capture Morphology? [[arXiv 2017]](https://arxiv.org/abs/1704.08352) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1184) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/17_from_characters_to_words_to_in_between_do_we_capture_morphology.md)
