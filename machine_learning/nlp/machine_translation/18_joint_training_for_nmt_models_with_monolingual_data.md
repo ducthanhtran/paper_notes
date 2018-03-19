@@ -1,6 +1,6 @@
 # Joint Training for Neural Machine Translation Models with Monolingual Data
 * [arXiv 2018](https://arxiv.org/abs/1803.00353)
-* AAAI 2018
+* 32nd Conference on Artificial Intelligence (AAAI), 2018
 
 **Authors**:
 * Zhang, Zhirui

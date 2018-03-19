@@ -1,6 +1,6 @@
 # Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning
 * [arXiv 2017](https://arxiv.org/abs/1703.03906)
-* ICLR 2018 Workshop
+* The 6th International Conference on Learning Representations (ICLR) Workshop, 2018 
   * [OpenReview](https://openreview.net/forum?id=rJZlKFkvM)
 
 **Authors**:
