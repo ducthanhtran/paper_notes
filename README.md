@@ -31,6 +31,9 @@
 #### DHN 2018 (to-appear)
 * Tiedemann: Emerging Language Spaces Learned From Massively Multilingual Corpora [[arXiv 2018]](https://arxiv.org/abs/1802.00273) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_emerging_language_spaces_learned_from_massively_multilingual_corpora.md)
 
+#### arXiv
+* Vaswani et al.: Tensor2Tensor for Neural Machine Translation [[arXiv 2018]](https://arxiv.org/abs/1803.07416) [[Kaiser: Slides]](https://nlp.stanford.edu/seminar/details/lkaiser.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_tensor2tensor_for_nmt.md)
+
 ### 2017
 #### Advances in NIPS 2017
 * Vaswani et al.: Attention Is All You Need [[arXiv 2017]](https://arxiv.org/abs/1706.03762) [[NIPS 2017]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[Kaiser: Slides]](https://nlp.stanford.edu/seminar/details/lkaiser.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_attention_is_all_you_need.md)
@@ -70,7 +73,7 @@
 #### Proceedings of the 53rd Annual Meeting of the ACL and the 7th IJCNLP
 * Luong et al.: Addressing the Rare Word Problem in Neural Machine Translation [[arXiv]](https://arxiv.org/abs/1410.8206) [[ACL 2015]](http://www.aclweb.org/anthology/P15-1002) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_addressing_the_rare_word_problem_in_neural_machine_translation.md)
 
-#### ArXiv
+#### arXiv
 * Ling et al.: Character-based Neural Machine Translation [[arXiv 2015]](https://arxiv.org/abs/1511.04586.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_character_based_nmt.md)
 
 ### 2005
