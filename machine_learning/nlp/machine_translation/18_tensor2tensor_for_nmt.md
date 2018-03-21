@@ -1,5 +1,6 @@
 # Tensor2Tensor for Neural Machine Translation
 * [arXiv 2018](https://arxiv.org/abs/1803.07416)
+* [Kaiser: Slides](https://nlp.stanford.edu/seminar/details/lkaiser.pdf)
 
 **Authors**:
 * Vaswani, Ashish
