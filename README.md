@@ -33,7 +33,7 @@
 
 ### 2017
 #### Advances in NIPS 2017
-* Vaswani et al.: Attention Is All You Need [[arXiv 2017]](https://arxiv.org/abs/1706.03762) [[NIPS 2017]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_attention_is_all_you_need.md)
+* Vaswani et al.: Attention Is All You Need [[arXiv 2017]](https://arxiv.org/abs/1706.03762) [[NIPS 2017]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[Kaiser: Slides]](https://nlp.stanford.edu/seminar/details/lkaiser.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_attention_is_all_you_need.md)
 
 #### Transactions of the ACL (TACL), vol.5
 * Lee et al.: Fully Character-level Neural Machine Translation without Explicit Segmentation [[arXiv 2016]](https://arxiv.org/abs/1610.03017) [[TACL 2017]](https://transacl.org/ojs/index.php/tacl/article/viewFile/1051/253) [[notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_fully_character_level_nmt_without_explicit_segmentation.md)

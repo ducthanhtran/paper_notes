@@ -2,6 +2,7 @@
 * [arXiv 2017](https://arxiv.org/abs/1706.03762)
 * 31st Conference on Neural Information Processing Systems (NIPS) | Advances in Neural Information Processing Systems 30, 2017
   * [NIPS 2017](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+* [Kaiser: Slides](https://nlp.stanford.edu/seminar/details/lkaiser.pdf)
 
 **Authors**:
 * Vaswani, Ashish
