@@ -1,6 +1,6 @@
 # An Empirical Exploration of Recurrent Neural Network Architectures
 * Proceedings of the 32nd International Conference on Machine Learning (ICML), 2015
-    * [[JMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
+    * [[PMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
 
 **Authors**:
 * Jozefowicz, Rafal
