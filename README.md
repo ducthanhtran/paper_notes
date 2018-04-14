@@ -1,3 +1,7 @@
+# Neural Networks
+#### ICML 2015
+* [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/15_an_empirical_exploration_of_recurrent_network_architectures.md)
+
 # Natural Language Processing
 
 ### 2018
