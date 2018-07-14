@@ -11,7 +11,7 @@
 
 
 # Integrating Context Information Techniques
-    * Encoder+Attention for each context-sentence [(April 2017, Jean et al.: Does Neural Machine Translation benefit from Larger Context?)](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
+    * Encoder+Attention for each context-sentence on RNN architecture [(April 2017, Jean et al.: Does Neural Machine Translation benefit from Larger Context?)](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
 
     * [(September 2017, Tiedemann et al.: Neural Machine Translation with Extended Context)](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_nmt_with_extended_context.md)
 
