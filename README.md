@@ -20,6 +20,9 @@
 * Mikolov et al.: Linguistic Regularities in Continuous Space Word Representation [[NAACL-HLT 2013]](https://www.aclweb.org/anthology/N13-1090) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/13_linguistic_regularities_in_continuous_space_word_representations.md)
 
 ## Machine Translation
+* [Integrating Context Information](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/summaries/context.md)
+
+
 ### 2018
 #### ICLR 2018 (to-appear)
 * Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning [[OpenReview]](https://openreview.net/forum?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
