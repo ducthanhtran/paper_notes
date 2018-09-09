@@ -2,6 +2,10 @@
 #### ICML 2015
 * Jozefowicz et al.: An Empirical Exploration of Recurrent Network Architectures [[PMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/15_an_empirical_exploration_of_recurrent_network_architectures.md)
 
+
+
+
+
 # Natural Language Processing
 
 ### 2018
@@ -19,9 +23,15 @@
 #### Proceedings of NAACL-HLT 2013
 * Mikolov et al.: Linguistic Regularities in Continuous Space Word Representation [[NAACL-HLT 2013]](https://www.aclweb.org/anthology/N13-1090) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/13_linguistic_regularities_in_continuous_space_word_representations.md)
 
+### 2003
+#### Journal of Machine Learning Research Volume 3
+* Bengio et al.: A neural probabilistic neural language model [[JCML]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/03_a_neural_probabilistic_language_model.md)
+
+
+
+
 ## Machine Translation
 * [Integrating Context Information](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/summaries/context.md)
-
 
 ### 2018
 #### ICLR 2018 (to-appear)
