@@ -7,7 +7,7 @@
 
 
 # Misc
-    * http://computing.dcu.ie/sites/default/files/documents/videos/longyue-wang-transfer-talk-2nd-may-2017/My_Transfer_Longyue_v5.pdf
+* http://computing.dcu.ie/sites/default/files/documents/videos/longyue-wang-transfer-talk-2nd-may-2017/My_Transfer_Longyue_v5.pdf
 
 
 # Integrating Context Information Techniques
