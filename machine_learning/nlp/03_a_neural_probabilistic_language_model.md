@@ -1,6 +1,6 @@
 # A Neural Probabilistic Language Model
 * Journal of Machine Learning Research (JMLR) Volume 3, February 2003
-    * [JCML](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+    * [JMLR](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 
 **Authors**:
 * Bengio, Yoshua
@@ -62,11 +62,11 @@
 * Neural LMs are significantly better than count-based models. Perplexity difference:
 	* Brown test: 24%
 	* AP test: 8%
-*
 * direct input-to-output connection:
 	* usage yields faster convergence: 10 instead of 20 epochs for Brown data
 	* Additional input-to-output connection provide information of 'linear' part of mapping from features to log probabilities
 	* without this direct connection the network might be forced to generalize more, thus lower PPL was observed
+* always improving results when trigram model and neural LM are weighted together with 0.5
 
 
 ## Comments
