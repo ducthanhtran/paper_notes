@@ -2,6 +2,8 @@
 #### ICML 2015
 * Jozefowicz et al.: An Empirical Exploration of Recurrent Network Architectures [[PMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/15_an_empirical_exploration_of_recurrent_network_architectures.md)
 
+#### Complex systems 1988
+* Levin et al.: Accelerated learning in layered neural networks [[Wolfram]](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/02-6-1.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/88_accelerated_learning_in_layered_neural_networks.md)
 
 
 
