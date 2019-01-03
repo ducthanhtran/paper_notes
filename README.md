@@ -15,6 +15,9 @@
 * 2017, Menacer et al.: Is Statistical Machine Translation Approach dead?, ICNLSSP, [[HAL 2017]](https://hal.inria.fr/hal-01660016/document) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_is_statistical_machine_translation_approach_dead.md)
 * 2005, Ney: One Decade of Statistical Machine Translation: 1996-2005, CLIN, [[RWTH Aachen]](https://www-i6.informatik.rwth-aachen.de/publications/download/508/Ney-MT%20Summit-2005.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/05_one_decade_of_smt_1996_2005.md)
 
+### Evaluation
+* 2002, Papineni et al.: BLEU: A Method for Automatic Evaluation of Machine Translation, ACL, [[ACL 2002]](https://www.aclweb.org/anthology/P02-1040.pdf)
+
 ### Modelling
 * 2017, Britz et al.: Massive Exploration of Neural Machine Translation Architectures, ACL, [[arXiv 2017]](https://arxiv.org/abs/1703.03906) [[ACL 2017]](http://aclweb.org/anthology/D17-1151) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_massive_exploration_of_nmt_architectures.md)
 
@@ -58,7 +61,6 @@
 
 # Neural Network Model
 * 2015, Jozefowicz et al.: An Empirical Exploration of Recurrent Network Architectures, ICML, [[PMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/15_an_empirical_exploration_of_recurrent_network_architectures.md)
-
 * 1988, Levin et al.: Accelerated learning in layered neural networks, Complex Systems 2, [[Wolfram]](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/02-6-1.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/88_accelerated_learning_in_layered_neural_networks.md)
 
 ## Sequence-to-Sequence
