@@ -20,7 +20,7 @@
 * 2002, Papineni et al.: BLEU: A Method for Automatic Evaluation of Machine Translation, ACL, [[ACL 2002]](https://www.aclweb.org/anthology/P02-1040.pdf)
 
 ### Search/Decoding
-* 2018, Yang et al.: Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation, [[arXiv 2018]](https://arxiv.org/abs/1808.09582) [[EMNLP 2018]](http://aclweb.org/anthology/D18-1342)
+* 2018, Yang et al.: Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation, EMNLP, [[arXiv 2018]](https://arxiv.org/abs/1808.09582) [[EMNLP 2018]](http://aclweb.org/anthology/D18-1342)
 
 ### Modelling
 * 2017, Britz et al.: Massive Exploration of Neural Machine Translation Architectures, ACL, [[arXiv 2017]](https://arxiv.org/abs/1703.03906) [[ACL 2017]](http://aclweb.org/anthology/D17-1151) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_massive_exploration_of_nmt_architectures.md)
