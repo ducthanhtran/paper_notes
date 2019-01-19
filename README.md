@@ -26,6 +26,7 @@
 * 2017, Britz et al.: Massive Exploration of Neural Machine Translation Architectures, ACL, [[arXiv 2017]](https://arxiv.org/abs/1703.03906) [[ACL 2017]](http://aclweb.org/anthology/D17-1151) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_massive_exploration_of_nmt_architectures.md)
 
 #### a) Transformer-based
+* 2018, Medina et al.: Parallel Attention Mechanism in Neural Machine Translation, ICMLA, [[arXiv 2018]](https://arxiv.org/abs/1810.12427)
 * 2018, Shaw et al.: Self-Attention with Relative Position Representations, NAACL [[arXiv 2018]](https://arxiv.org/abs/1803.02155) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_self_attention_with_relative_position_representations.md)
 * 2017, Vaswani et al.: Attention Is All You Need, NIPS, [[arXiv 2017]](https://arxiv.org/abs/1706.03762) [[NIPS 2017]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) [[Kaiser: Slides]](https://nlp.stanford.edu/seminar/details/lkaiser.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_attention_is_all_you_need.md)
 
