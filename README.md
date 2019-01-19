@@ -71,7 +71,7 @@
 
 
 ## Architectures
-* 2015, Srivastava et al.: Highway Networks, ICML, [[arXiv 2015]](https://arxiv.org/abs/1505.00387)
+* 2015, Srivastava et al.: Training Very Deep Networks, NIPS, [[arXiv 2015]](https://arxiv.org/abs/1507.06228) [[NIPS 2015]](https://papers.nips.cc/paper/5850-training-very-deep-networks.pdf) [[Preliminary paper - arXiv 2015]](https://arxiv.org/abs/1505.00387)
 
 ### Sequence-to-Sequence
 * 2018, Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning, ICLR, [[OpenReview]](https://openreview.net/forum?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
