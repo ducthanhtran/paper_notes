@@ -75,3 +75,4 @@
 
 ### Sequence-to-Sequence
 * 2018, Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning, ICLR, [[OpenReview]](https://openreview.net/forum?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
+* 2014, Sutskever et al.: Sequence to Sequence Learning with Neural Networks, NIPS, [[arXiv 2014]](https://arxiv.org/abs/1409.3215) [[NIPS 2014]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
