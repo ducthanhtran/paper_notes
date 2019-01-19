@@ -69,6 +69,9 @@
 * 2015, Jozefowicz et al.: An Empirical Exploration of Recurrent Network Architectures, ICML, [[PMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/15_an_empirical_exploration_of_recurrent_network_architectures.md)
 * 1988, Levin et al.: Accelerated learning in layered neural networks, Complex Systems 2, [[Wolfram]](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/02-6-1.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/88_accelerated_learning_in_layered_neural_networks.md)
 
-## Sequence-to-Sequence
-* 2018, Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning, ICLR, [[OpenReview]](https://openreview.net/forum?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
 
+## Architectures
+* 2015, Srivastava et al.: Highway Networks, ICML, [[arXiv 2015]](https://arxiv.org/abs/1505.00387)
+
+### Sequence-to-Sequence
+* 2018, Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning, ICLR, [[OpenReview]](https://openreview.net/forum?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
