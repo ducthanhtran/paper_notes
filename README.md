@@ -16,6 +16,7 @@
 * 2005, Ney: One Decade of Statistical Machine Translation: 1996-2005, CLIN, [[RWTH Aachen]](https://www-i6.informatik.rwth-aachen.de/publications/download/508/Ney-MT%20Summit-2005.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/05_one_decade_of_smt_1996_2005.md)
 
 ### Evaluation
+* 2018, Post: A Call for Clarity in Reporting BLEU Scores, WMT, [[WMT 2018]](http://aclweb.org/anthology/W18-6319) [[arXiv 2018]](https://arxiv.org/abs/1804.08771)
 * 2018, Domingo et al.: How Much Does Tokenization Affect Neural Machine Translation?, [[arXiv 2018]](https://arxiv.org/abs/1812.08621)
 * 2002, Papineni et al.: BLEU: A Method for Automatic Evaluation of Machine Translation, ACL, [[ACL 2002]](https://www.aclweb.org/anthology/P02-1040.pdf)
 
