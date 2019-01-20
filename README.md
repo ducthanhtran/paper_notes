@@ -1,8 +1,12 @@
 # Natural Language Processing
 
-## Sentence Embeddings
+## Embeddings
 
+### a) Sentence
 * 2018, Logeswaran et al.: An Efficient Framework for Learning Sentence Representations, ICLR, [[arXiv 2018]](https://arxiv.org/abs/1803.02893) [[OpenReview 2018]](https://openreview.net/forum?id=rJvJXZb0W) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/18_an_efficient_framework_for_learning_sent_repr.md)
+
+### b) Documents
+* 2014, Le et al.: Distributed Representations of Sentences and Documents, PMLR, [[PMLR]](http://proceedings.mlr.press/v32/le14.pdf) [[arXiv 2014]](https://arxiv.org/abs/1405.4053)
 
 ## Language Model
 * 2017, Vania et al.: From Characters to Words to in Between: Do We Capture Morphology?, ACL, [[arXiv 2017]](https://arxiv.org/abs/1704.08352) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1184) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/17_from_characters_to_words_to_in_between_do_we_capture_morphology.md)
