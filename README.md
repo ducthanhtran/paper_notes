@@ -11,6 +11,7 @@
 ## Language Model
 * 2017, Vania et al.: From Characters to Words to in Between: Do We Capture Morphology?, ACL, [[ACL 2017]](http://www.aclweb.org/anthology/P17-1184) [[arXiv 2017]](https://arxiv.org/abs/1704.08352)  [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/17_from_characters_to_words_to_in_between_do_we_capture_morphology.md)
 * 2017, Press et al.: Using the Output Embedding to Improve Language Models, ACL, [[arXiv 2016]](https://arxiv.org/abs/1608.05859) [[ACL 2017]](http://aclweb.org/anthology/E17-2025) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/17_using_the_output_embedding_to_improve_language_models.md)
+* 2016, Kim et al.: Character-aware Neural Language Models, AAAI, [[arXiv 2015]](https://arxiv.org/abs/1508.06615) [[AAAI 2016]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12489/12017)
 * 2013, Mikolov et al.: Linguistic Regularities in Continuous Space Word Representation, NAACL-HLT, [[NAACL-HLT 2013]](https://www.aclweb.org/anthology/N13-1090) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/13_linguistic_regularities_in_continuous_space_word_representations.md)
 * 2003, Bengio et al.: A neural probabilistic neural language model, JCML, [[JCML]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/03_a_neural_probabilistic_language_model.md)
 
