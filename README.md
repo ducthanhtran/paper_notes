@@ -70,7 +70,10 @@
 
 ### Transfer Learning
 * 2018, Tiedemann: Emerging Language Spaces Learned From Massively Multilingual Corpora, DHN, [[arXiv 2018]](https://arxiv.org/abs/1802.00273) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_emerging_language_spaces_learned_from_massively_multilingual_corpora.md)
-* 2017, Barone et al.: Regularization techniques for fine-tuning in neural machine translation, EMNLP, [[arXiv 2017]](https://arxiv.org/abs/1707.09920) [[EMNLP 2017]](https://www.aclweb.org/anthology/D17-1156)
+
+#### Domain Adaption
+* 2018 Oct, Thompson et al.: Freezing Subnetworks to Analyze Domain Adaption in Neural Machine Translation, WMT, [[WMT 2018]](http://aclweb.org/anthology/W18-6313.pdf) [[arXiv 2018]](https://arxiv.org/abs/1809.05218)
+* 2017 Sep, Barone et al.: Regularization techniques for fine-tuning in neural machine translation, EMNLP, [[arXiv 2017]](https://arxiv.org/abs/1707.09920) [[EMNLP 2017]](https://www.aclweb.org/anthology/D17-1156)
 
 ### Low-resource Setting
 * 2018, Gu et al.: Universal Neural Machine Translation for Extremely Low Resource Languages, AAAI, [[arXiv 2018]](https://arxiv.org/abs/1802.05368) [[Microsoft 2018]](https://www.microsoft.com/en-us/research/publication/universal-neural-machine-translation-extremely-low-resource-languages/) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_universal_nmt_for_extremely_low_resource_lang.md)
