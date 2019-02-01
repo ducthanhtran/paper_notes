@@ -48,8 +48,10 @@
 
 ### Document-level Context
 #### i) Local
-* 2018, Voita et al.: Context-Aware Neural Machine Translation Learns Anaphora Resolution, ACL, [[arXiv 2018]](https://arxiv.org/abs/1805.10163) [[ACL 2018]](http://aclweb.org/anthology/P18-1117) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_context_aware_nmt_learns_anaphora_resolution)
-* 2017, Jean et al.: Does Neural Machine Translation Benefit from Larger Context?, arXiv, [[arXiv 2017]](https://arxiv.org/pdf/1704.05135) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
+* 2018 Oct, Zhang et al.: Improving the Transformer Translation Model with Document-level Context, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1049)
+* 2018 Aug, Kuang et al.: Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model, [[COLING 2018]](http://aclweb.org/anthology/C18-1051) 
+* 2018 Jul, Voita et al.: Context-Aware Neural Machine Translation Learns Anaphora Resolution, ACL, [[arXiv 2018]](https://arxiv.org/abs/1805.10163) [[ACL 2018]](http://aclweb.org/anthology/P18-1117) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_context_aware_nmt_learns_anaphora_resolution)
+* 2017 Apr, Jean et al.: Does Neural Machine Translation Benefit from Larger Context?, arXiv, [[arXiv 2017]](https://arxiv.org/pdf/1704.05135) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
 
 #### ii) Global
 * 2017, Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation, ACL, [[arXiv 2017]](https://arxiv.org/abs/1704.04347.pdf) [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_exploiting_cross_sentence_context_for_nmt.md)
@@ -89,3 +91,6 @@
 ### Sequence-to-Sequence
 * 2018, Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning, ICLR, [[OpenReview]](https://openreview.net/forum?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
 * 2014, Sutskever et al.: Sequence to Sequence Learning with Neural Networks, NIPS, [[arXiv 2014]](https://arxiv.org/abs/1409.3215) [[NIPS 2014]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+
+# Tools
+* 2018, Peter et al.: Sisyphus, a Workflow Manager Designed for Machine Translatin and Automatic Speech Recognition, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-2015)
