@@ -50,6 +50,7 @@
 ### Document-level Context
 #### i) Local
 * 2018 Oct, Zhang et al.: Improving the Transformer Translation Model with Document-level Context, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1049)
+* 2018 Oct, Cao et al.: Encoding Gated Translation Memory into Neural Machine Translation, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1340)
 * 2018 Aug, Kuang et al.: Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model, [[COLING 2018]](http://aclweb.org/anthology/C18-1051)
 * 2018 Jul, Voita et al.: Context-Aware Neural Machine Translation Learns Anaphora Resolution, ACL, [[arXiv 2018]](https://arxiv.org/abs/1805.10163) [[ACL 2018]](http://aclweb.org/anthology/P18-1117) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_context_aware_nmt_learns_anaphora_resolution)
 * 2017 Apr, Jean et al.: Does Neural Machine Translation Benefit from Larger Context?, arXiv, [[arXiv 2017]](https://arxiv.org/pdf/1704.05135) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
