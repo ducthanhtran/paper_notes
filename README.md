@@ -45,7 +45,8 @@
 * 2017, Gehring et al.: A Convolutional Encoder Model for Neural Machine Translation, ACL, [[arXiv 2016]](https://arxiv.org/abs/1611.02344) [[ACL 2017]](http://www.aclweb.org/anthology/P17-1012) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_a_convolutional_encoder_mode_for_nmt.md)
 
 ### Attention Mechanism
-* 2015, Bahdanau et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR, [[arXiv 2014]](https://arxiv.org/pdf/1409.0473.pdf) [[Slides, ICLR]](https://iclr.cc/archive/www/lib/exe/fetch.php%3Fmedia=iclr2015:bahdanau-iclr2015.pdf)
+* 2018 Feb, Lin et al.: Decoding-History-Based Adaptive Control of Attention for Neural Machine Translation, arXiv, [[arXiv 2018]](https://arxiv.org/pdf/1802.01812) [[Github]](https://github.com/lancopku/ACA4NMT)
+* 2015 May, Bahdanau et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR, [[arXiv 2014]](https://arxiv.org/pdf/1409.0473.pdf) [[Slides, ICLR]](https://iclr.cc/archive/www/lib/exe/fetch.php%3Fmedia=iclr2015:bahdanau-iclr2015.pdf)
 
 ### Document-level Context
 #### i) Local
