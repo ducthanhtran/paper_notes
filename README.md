@@ -21,9 +21,10 @@
 * 2005, Ney: One Decade of Statistical Machine Translation: 1996-2005, CLIN, [[RWTH Aachen]](https://www-i6.informatik.rwth-aachen.de/publications/download/508/Ney-MT%20Summit-2005.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/05_one_decade_of_smt_1996_2005.md)
 
 ### Evaluation
-* 2018, Post: A Call for Clarity in Reporting BLEU Scores, WMT, [[WMT 2018]](http://aclweb.org/anthology/W18-6319) [[arXiv 2018]](https://arxiv.org/abs/1804.08771)
-* 2018, Domingo et al.: How Much Does Tokenization Affect Neural Machine Translation?, [[arXiv 2018]](https://arxiv.org/abs/1812.08621)
-* 2002, Papineni et al.: BLEU: A Method for Automatic Evaluation of Machine Translation, ACL, [[ACL 2002]](https://www.aclweb.org/anthology/P02-1040.pdf)
+* 2018 Dec, Domingo et al.: How Much Does Tokenization Affect Neural Machine Translation?, [[arXiv 2018]](https://arxiv.org/abs/1812.08621)
+* 2018 Oct, Post: A Call for Clarity in Reporting BLEU Scores, WMT, [[WMT 2018]](http://aclweb.org/anthology/W18-6319) [[arXiv 2018]](https://arxiv.org/abs/1804.08771)
+* 2018 Oct, Läubli et al.: Has Machine Translation Achieved Human Parity? A Case for Document-level Evaluation, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1512) [[arXiv 2018]](https://arxiv.org/pdf/1808.07048.pdf)
+* 2002 Jul, Papineni et al.: BLEU: A Method for Automatic Evaluation of Machine Translation, ACL, [[ACL 2002]](https://www.aclweb.org/anthology/P02-1040.pdf)
 
 ### Search/Decoding
 * 2018, Yang et al.: Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation, EMNLP, [[arXiv 2018]](https://arxiv.org/abs/1808.09582) [[EMNLP 2018]](http://aclweb.org/anthology/D18-1342)
@@ -49,7 +50,7 @@
 ### Document-level Context
 #### i) Local
 * 2018 Oct, Zhang et al.: Improving the Transformer Translation Model with Document-level Context, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1049)
-* 2018 Aug, Kuang et al.: Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model, [[COLING 2018]](http://aclweb.org/anthology/C18-1051) 
+* 2018 Aug, Kuang et al.: Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model, [[COLING 2018]](http://aclweb.org/anthology/C18-1051)
 * 2018 Jul, Voita et al.: Context-Aware Neural Machine Translation Learns Anaphora Resolution, ACL, [[arXiv 2018]](https://arxiv.org/abs/1805.10163) [[ACL 2018]](http://aclweb.org/anthology/P18-1117) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_context_aware_nmt_learns_anaphora_resolution)
 * 2017 Apr, Jean et al.: Does Neural Machine Translation Benefit from Larger Context?, arXiv, [[arXiv 2017]](https://arxiv.org/pdf/1704.05135) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_does_nmt_benefit_from_larger_context.md)
 
