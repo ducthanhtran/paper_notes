@@ -50,6 +50,10 @@
 * 2018 Feb, Lin et al.: Decoding-History-Based Adaptive Control of Attention for Neural Machine Translation, arXiv, [[arXiv 2018]](https://arxiv.org/pdf/1802.01812) [[Github]](https://github.com/lancopku/ACA4NMT)
 * 2015 May, Bahdanau et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR, [[arXiv 2014]](https://arxiv.org/pdf/1409.0473.pdf) [[Slides, ICLR]](https://iclr.cc/archive/www/lib/exe/fetch.php%3Fmedia=iclr2015:bahdanau-iclr2015.pdf)
 
+### Coverage
+* 2018 Mar, Zheng et al.: Modeling Past and Future for Neural Machine Translation, TACL, [[TACL 2018]](http://aclweb.org/anthology/Q18-1011) [[arXiv 2017]](https://arxiv.org/abs/1711.09502) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_modeling_past_and_future_for_nmt.md)
+
+
 ### Document-level Context
 #### i) Local
 * 2018 Oct, Zhang et al.: Improving the Transformer Translation Model with Document-level Context, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1049)
