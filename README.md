@@ -24,6 +24,7 @@
 
 ### Evaluation
 * 2018 Dec, Domingo et al.: How Much Does Tokenization Affect Neural Machine Translation?, [[arXiv 2018]](https://arxiv.org/abs/1812.08621)
+* 2018 Oct, Rios et al.: The Word Sense Disambiguation Test Suite at WMT18, [[WMT 2018]](http://aclweb.org/anthology/W18-6437)
 * 2018 Oct, Post: A Call for Clarity in Reporting BLEU Scores, WMT, [[WMT 2018]](http://aclweb.org/anthology/W18-6319) [[arXiv 2018]](https://arxiv.org/abs/1804.08771)
 * 2018 Oct, Läubli et al.: Has Machine Translation Achieved Human Parity? A Case for Document-level Evaluation, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1512) [[arXiv 2018]](https://arxiv.org/pdf/1808.07048.pdf)
 * 2002 Jul, Papineni et al.: BLEU: A Method for Automatic Evaluation of Machine Translation, ACL, [[ACL 2002]](https://www.aclweb.org/anthology/P02-1040.pdf)
