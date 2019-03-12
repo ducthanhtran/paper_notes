@@ -59,6 +59,7 @@
 
 ### Document-level Context
 #### i) Local
+* 2019 Mar, Moryossef et al.: Filling Gender & Number Gaps in Neural Machine Translation with Black-box Context Injection, arXiv, [[arXiv 2019]](https://arxiv.org/abs/1903.03467)
 * 2018 Oct, Zhang et al.: Improving the Transformer Translation Model with Document-level Context, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1049)
 * 2018 Oct, Cao et al.: Encoding Gated Translation Memory into Neural Machine Translation, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1340)
 * 2018 Aug, Kuang et al.: Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model, [[COLING 2018]](http://aclweb.org/anthology/C18-1051)
