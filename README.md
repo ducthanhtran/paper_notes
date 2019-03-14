@@ -69,6 +69,9 @@
 #### ii) Global
 * 2017 Sep, Wang et al.: Exploiting Cross-Sentence Context for Neural Machine Translation, ACL, [[ACL 2017]](http://aclweb.org/anthology/D17-1301) [[arXiv 2017]](https://arxiv.org/abs/1704.04347.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/17_exploiting_cross_sentence_context_for_nmt.md)
 
+#### Regularization
+* 2019 Mar, Jean et al.: Context-Aware Learning for Neural Machine Translation, arXiv, [[arXiv 2019]](https://arxiv.org/abs/1903.04715)
+
 ### Character-level
 * 2017 Oct, Lee et al.: Fully Character-level Neural Machine Translation without Explicit Segmentation, TACL, [[TACL 2017]](https://transacl.org/ojs/index.php/tacl/article/viewFile/1051/253) [[arXiv 2016]](https://arxiv.org/abs/1610.03017)  [[notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_fully_character_level_nmt_without_explicit_segmentation.md)
 * 2016 Aug, Chung et al.: A Character-level Decoder without Explicit Segmentation for Neural Machine Translation, ACL, [[ACL 2016]](http://www.aclweb.org/anthology/P16-1160) [[arXiv 2016]](https://arxiv.org/abs/1603.06147) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_a_character_level_decoder_without_explicit_segmentation_for_nmt.md)
