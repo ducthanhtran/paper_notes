@@ -96,16 +96,21 @@
 * 2016 Aug, Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units, ACL, [[ACL 2016]](http://www.aclweb.org/anthology/P16-1162) [[arXiv]](https://arxiv.org/abs/1508.07909) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_nmt_of_rare_words_with_subword_units.md)
 * 2015 Jul, Luong et al.: Addressing the Rare Word Problem in Neural Machine Translation, ACL, [[ACL 2015]](http://www.aclweb.org/anthology/P15-1002) [[arXiv]](https://arxiv.org/abs/1410.8206) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_addressing_the_rare_word_problem_in_neural_machine_translation.md)
 
-# Neural Network Model
-* 2015 Jul, Jozefowicz et al.: An Empirical Exploration of Recurrent Network Architectures, ICML, [[PMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/15_an_empirical_exploration_of_recurrent_network_architectures.md)
-* 1988, Levin et al.: Accelerated learning in layered neural networks, Complex Systems 2, [[Wolfram]](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/02-6-1.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/88_accelerated_learning_in_layered_neural_networks.md)
-
+# Neural Network Model Structure
+* 2015 Jul, Jozefowicz et al.: An Empirical Exploration of Recurrent Network Architectures, ICML, [[PMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf) [[Notes]](
 
 ## Architectures
 * 2015 Dec, Srivastava et al.: Training Very Deep Networks, NIPS, [[NIPS 2015]](https://papers.nips.cc/paper/5850-training-very-deep-networks.pdf) [[arXiv 2015]](https://arxiv.org/abs/1507.06228) [[Preliminary paper - arXiv 2015]](https://arxiv.org/abs/1505.00387)
 
-## Training
+## Normalization
 * 2015 Jul, Ioffe et al.: Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, PMLR, [[PMLR 2015]](http://proceedings.mlr.press/v37/ioffe15.pdf) [[arXiv 2015]](https://arxiv.org/abs/1502.03167)
+
+
+## Training
+
+### Optimization Algorithms
+https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/15_an_empirical_exploration_of_recurrent_network_architectures.md)
+* 1988, Levin et al.: Accelerated learning in layered neural networks, Complex Systems 2, [[Wolfram]](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/02-6-1.pdf) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/neural_networks/88_accelerated_learning_in_layered_neural_networks.md)
 
 ### Sequence-to-Sequence
 * 2018 Apr, Chen et al.: Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning, ICLR, [[EMNLP 2018]](http://aclweb.org/anthology/D18-1035) [[OpenReview]](https://openreview.net/pdf?id=rJZlKFkvM) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/18_stable_and_effective_trainable_greedy_decoding_for_seq_to_seq_learning.md)
@@ -113,3 +118,6 @@
 
 # Tools
 * 2018 Oct, Peter et al.: Sisyphus, a Workflow Manager Designed for Machine Translatin and Automatic Speech Recognition, EMNLP, [[EMNLP 2018]](http://aclweb.org/anthology/D18-2015)
+
+# Computer Vision
+* 2016 Jun, He et al.: Deep Residual Learning for Image Recognition, CVPR, [[CVPR 2016]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
