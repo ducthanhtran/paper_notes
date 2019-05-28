@@ -96,6 +96,10 @@
 * 2016 Aug, Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units, ACL, [[ACL 2016]](http://www.aclweb.org/anthology/P16-1162) [[arXiv]](https://arxiv.org/abs/1508.07909) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/16_nmt_of_rare_words_with_subword_units.md)
 * 2015 Jul, Luong et al.: Addressing the Rare Word Problem in Neural Machine Translation, ACL, [[ACL 2015]](http://www.aclweb.org/anthology/P15-1002) [[arXiv]](https://arxiv.org/abs/1410.8206) [[Notes]](https://github.com/ducthanhtran/paper_notes/blob/master/machine_learning/nlp/machine_translation/15_addressing_the_rare_word_problem_in_neural_machine_translation.md)
 
+## Neural Language Generation
+* 2017 Sep, Wiseman et al.: Challenges in Data-to-Document Generation, EMNLP, [[EMNLP 2017]](https://www.aclweb.org/anthology/D17-1239)
+
+
 # Neural Network Model Structure
 * 2015 Jul, Jozefowicz et al.: An Empirical Exploration of Recurrent Network Architectures, ICML, [[PMLR 2015]](http://proceedings.mlr.press/v37/jozefowicz15.pdf) [[Notes]](
 
@@ -104,7 +108,6 @@
 
 ## Normalization
 * 2015 Jul, Ioffe et al.: Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, PMLR, [[PMLR 2015]](http://proceedings.mlr.press/v37/ioffe15.pdf) [[arXiv 2015]](https://arxiv.org/abs/1502.03167)
-
 
 ## Training
 
