@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/ducthanhtran/paper_notes/blob/master/README.md#table-of-contents)
+
 # Machine Learning
 ## Natural Language Processing
 Where     | Title | Gist | Links

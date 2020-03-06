@@ -1,3 +1,4 @@
+# Table of Contents
 * Computer Science
-   * Machine Learning
-       * [Natural Language Processing](https://github.com/ducthanhtran/paper_notes/blob/master/cs/machine_learning/index.md)
+   * [Machine Learning](https://github.com/ducthanhtran/paper_notes/blob/master/cs/machine_learning/index.md)
+       * [Natural Language Processing](https://github.com/ducthanhtran/paper_notes/blob/master/cs/machine_learning/index.md#natural-language-processing)
