@@ -35,6 +35,6 @@ Model|Training Data|WER static|WER dyn.
 -----|-------------|----------|-------
 4-gram (RT05) LM|1.3B words|24.5|-
 4-gram (RT09) LM|1.3B+ words|24.1|-
-RNN 1000 hidden units | 24.2|23.7
-RNN 1000 hidden units + RT09 | 23.4|22.9
+RNN 1000 hidden units | 5.4M words | 24.2|23.7
+RNN 1000 hidden units + RT09 | 5.4M words | 23.4|22.9
 3xRNN + RT09|5.4M + 1.3B words|23.3|22.8
